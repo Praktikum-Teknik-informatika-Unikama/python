@@ -1,4 +1,4 @@
-# Pertemuan pertama
+# Pertemuan pertamaa
 
 ## requirement 
 - Sudah mengisntall vscode sebagai code editor
