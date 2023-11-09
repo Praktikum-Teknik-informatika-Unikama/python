@@ -2,7 +2,7 @@
 
 ## requirement 
 - Sudah mengisntall vscode sebagai code editor
-- install python versi >3
+- install python versi > 3
 
 ## materi
 - download [python](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe)
