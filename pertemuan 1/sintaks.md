@@ -92,3 +92,13 @@ contoh :
     """kelas pagar untuk membuat objek pagar. Dibuat oleh Petani Kode sebagai contoh saja."""
     
 ```
+
+# Beberapa variable satu baris
+Pada python mengijinkan beberapa variable dalam satu baris dengan aturan tertentu
+Contoh:
+
+```
+namaKota, namaProvinsi = "Malang", "Jawa Timur"
+print(namaKota)
+print(namaProvinsi)
+```
