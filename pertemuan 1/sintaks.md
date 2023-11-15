@@ -60,8 +60,11 @@ Praktikum = "praktikum python"
     ## Snake Case digunakan pada:
     module_name, package_name, method_name, function_name, , global_var_name, instance_var_name, function_parameter_name, local_var_name.
 
-    ## CamelCase digunakan Pada:
+    ## Pascal Case digunakan pada:
     ClassName, ExceptionName
+
+    ## Camel Case digunakan pada:
+    nameVariable, className, exceptionName
 
     ## ALL CAPS digunakan Pada:
     GLOBAL_CONSTANT_NAME
