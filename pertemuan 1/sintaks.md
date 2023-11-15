@@ -93,8 +93,8 @@ contoh :
     
 ```
 
-# Beberapa variable satu baris
-Pada python mengijinkan beberapa variable dalam satu baris dengan aturan tertentu
+# Beberapa variable dan value
+Pada python mengijinkan beberapa variable dan value dengan aturan tertentu
 Contoh:
 
 ```python
@@ -102,3 +102,13 @@ namaKota, namaProvinsi = "Malang", "Jawa Timur"
 print(namaKota)
 print(namaProvinsi)
 ```
+
+# Satu value beberapa variable
+
+Pada python mengijinkan satu value beberapa variable
+
+```python
+bulanAgustus = bulanSeptember = bulanOktober = "Musim hujan"
+print("Bulan September adalah musim: ", bulanSeptember)
+```
+
