@@ -97,7 +97,7 @@ contoh :
 Pada python mengijinkan beberapa variable dalam satu baris dengan aturan tertentu
 Contoh:
 
-```
+```python
 namaKota, namaProvinsi = "Malang", "Jawa Timur"
 print(namaKota)
 print(namaProvinsi)
