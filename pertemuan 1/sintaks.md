@@ -112,3 +112,16 @@ bulanAgustus = bulanSeptember = bulanOktober = "Musim hujan"
 print("Bulan September adalah musim: ", bulanSeptember)
 ```
 
+# Back slash
+```
+\n : enter / new line
+\b : backspace
+\t : tab horizontal
+```
+
+Contoh:
+```python
+print("nama saya\t: aufal")
+print("nama saya\b: aufal")
+print("nama saya\n: aufal")
+```
