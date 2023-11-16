@@ -13,9 +13,10 @@ NIM: 2134
 
 # Tugas
 
-```
+
 ubahlah variable nama, nim dibawah ini dengan nama dan nim kalian masing2 tanpa mengubah nilai dari variable di soal
 
+```
 Output:
 nama = "Aufal Marom"
 nim = "2134"
