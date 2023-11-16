@@ -1,8 +1,9 @@
 # Tugas
 
-```
+
 buatlah sebuah variable "nama depan, nama belakang, program studi, \nnomor induk mahasiswa" dengan menerapkan variable "Snake Case", dan code pada print harus 1 baris
 
+```
 Output:
 Nama Depan: Aufal
 Nama Belakang: Marom
