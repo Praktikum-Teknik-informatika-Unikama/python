@@ -3,6 +3,7 @@
 
 buatlah sebuah variable "nama depan, nama belakang, program studi, nomor induk mahasiswa" dengan menerapkan variable "Snake Case", dan code pada print harus 1 baris
 
+
 ```
 Output:
 Nama Depan: Aufal
