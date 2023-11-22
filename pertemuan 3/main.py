@@ -29,7 +29,7 @@ hasil_jumlah_x = 9
 # hasil_jumlah_x %= 7
 # hasil_jumlah_x //= 7
 # hasil_jumlah_x **= 7
-hasil_jumlah_x >>= 7
+
 
 
 
