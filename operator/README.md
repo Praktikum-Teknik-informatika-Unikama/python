@@ -1,4 +1,3 @@
-<a href="../03_variable">[variable] ◀ Materi Sebelumnya</a>
 
 <center>
 
@@ -30,13 +29,7 @@
 
 Python memiliki beberapa jenis operator yaitu:
 
-- [Operator Aritmatika](#3)
-- [Operator Penugasan](#4)
-- [Operator Perbandingan](#5)
-- [Operator Logika](#6)
-- [Operator Keanggotaan](#7)
-- [Operator Identitas](#8)
-- [Operator Bitwise](#9)
+- [Operator](#operator)
 
 <a id="3"><h2>Operator Aritmatika</h2></a>
 
@@ -316,19 +309,6 @@ Berikut tabel dari operasi identitas:
 | >>       | Bitwise right shift |     x>> |
 | <<       | Bitwise left shift  |     x<< |
 
-<a id="10"><h2>Video Penjelasan Tentang Variabel</h2></a>
-
----
-
-[![sdfssadasd](https://img.youtube.com/vi/RoDGGTWbKK4/0.jpg)](https://youtu.be/RoDGGTWbKK4?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY)
-[![sdfssadasd](https://img.youtube.com/vi/49KDyhzgCmA/0.jpg)](https://www.youtube.com/watch?v=49KDyhzgCmA&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=15)
-[![sdfssadasd](https://img.youtube.com/vi/Kv_lDWq8kCc/0.jpg)](https://www.youtube.com/watch?v=Kv_lDWq8kCc&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=11)
-[![sdfssadasd](https://img.youtube.com/vi/Sl7zqPpC2VI/0.jpg)](https://www.youtube.com/watch?v=Sl7zqPpC2VI&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=12)
-[![sdfssadasd](https://img.youtube.com/vi/-VrqfCGwr88/0.jpg)](https://www.youtube.com/watch?v=-VrqfCGwr88&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=14)
-
-<a id="11"><h2>Praktikum</h2></a>
-
----
 
 Klik link dibawah untuk mencoba kode python dari pembahasan kali ini.
 
@@ -340,4 +320,4 @@ Klik link dibawah untuk mencoba kode python dari pembahasan kali ini.
 - [Operator Bitwise](operator_bitwise.py)
 - [Operator Keanggotaan](operator_keanggotaan.py)
 
-<a href="../05_string">Materi Selanjutnya ▶ [String]</a>
+
