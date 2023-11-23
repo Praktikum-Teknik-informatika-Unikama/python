@@ -19,19 +19,41 @@ y = 7
 # Floor division
 hasil_jumlah = y // x
 
+"Operator penugasan"
+hasil_jumlah_penugasan = 6
+# hasil_jumlah_penugasan += 7
+# hasil_jumlah_penugasan -= 7
+# hasil_jumlah_penugasan *= 7
+# hasil_jumlah_penugasan /= 7
+# hasil_jumlah_penugasan %= 7
+# hasil_jumlah_penugasan //= 7
+# hasil_jumlah_penugasan **= 7
+hasil_jumlah_penugasan &= 7
+hasil_jumlah_penugasan |= 7
+hasil_jumlah_penugasan ^= 7
 
-# Operator penugasan
-hasil_jumlah_x = 9
-# hasil_jumlah_x += 7
-# hasil_jumlah_x -= 7
-# hasil_jumlah_x *= 7
-# hasil_jumlah_x /= 7
-# hasil_jumlah_x %= 7
-# hasil_jumlah_x //= 7
-# hasil_jumlah_x **= 7
+
+"Operator perbandingan"
+
+hasil_jumlah_perbandingan = (x == y ) #sama dengan
+hasil_jumlah_perbandingan = (x != y ) #tidak sama dengan
+hasil_jumlah_perbandingan = (x > y ) #lebih besar dari
+hasil_jumlah_perbandingan = (x < y ) #lebih kecil dari
+hasil_jumlah_perbandingan = (x >= y ) #lebih besar dari atau sama dengan
+hasil_jumlah_perbandingan = (x <= y ) #lebih kecil dari atau sama dengan
+
+
+"Operator Logika"
+
+hasil_jumlah_logika = x and y
 
 
 
 
 
-print("hasil : ",hasil_jumlah_x)
+
+
+# print("hasil : ",hasil_jumlah)
+print("hasil : ",hasil_jumlah_penugasan)
+# print("hasil : ",hasil_jumlah_perbandingan)
+# print("hasil : ",hasil_jumlah_logika)
