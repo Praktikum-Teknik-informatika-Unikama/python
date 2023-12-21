@@ -66,5 +66,11 @@ mahasiswa_list = [
         }
     }
 ]
+
+
+for mhs in mahasiswa_list :
+    pisah_nim = str(mhs["data"]["nim"])[-2:]
+    if int(pisah_nim) % 2 == 0 :
+        print(mhs['nama'], mhs["data"]["nim"])
  
  
