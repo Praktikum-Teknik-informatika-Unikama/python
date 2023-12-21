@@ -68,9 +68,19 @@ mahasiswa_list = [
 ]
 
 
-for mhs in mahasiswa_list :
-    pisah_nim = str(mhs["data"]["nim"])[-2:]
-    if int(pisah_nim) % 2 == 0 :
-        print(mhs['nama'], mhs["data"]["nim"])
+def nim(jenis) :
+    if jenis == "genap" :
+        result = 0
+    elif jenis == "ganjil" :
+        result = 1
+    else :
+        print('Error')
+        exit()
+
+    for mhs in mahasiswa_list :
+        pisah_nim = str(mhs["data"]["nim"])[-2:]
+        if int(pisah_nim) % 2 == result :
+            print(mhs['nama'], mhs["data"]["nim"])
+   
  
- 
+nim("ganjsdfdsfsil")
